@@ -7,12 +7,6 @@ namespace Demomvc.Repository
     {
         int UserCredentials(Login login);
 
-        string InsertUser(Login login);
-
-
-        string Updateuser(Login login);
-        string Deleteuser(Login login);
-        string Getuser(Login login);
-        string Searchuser(Login login);
+     
     }
     } 
